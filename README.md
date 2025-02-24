@@ -1,4 +1,4 @@
-```markdown
+
 # TP3 : Déploiement de l'application Spring Boot dans Kubernetes
 
 Ce document décrit les étapes pour déployer l'application **stock-ms** sur Minikube en utilisant deux approches :
