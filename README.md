@@ -142,3 +142,6 @@ kubectl apply -f stock-ms-deployment.yaml
 kubectl apply -f stock-ms-service.yaml
 minikube service stock-ms -n devops --url
 ```
+
+### Auteur
+👤 Seynabou SOUMARE 📧 seynabou@groupeisi.com
